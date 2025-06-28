@@ -1,0 +1,322 @@
+    1  date
+    2  cd
+    3  ssh-keygen
+    4  cd .ssh
+    5  ls -la
+    6  cat id_ed25519
+    7  cat id_ed25519.pub
+    8  ssh ec2-user@linux.itcareerhub.de
+    9  date
+   10  cd
+   11  cd .ssh
+   12  ls -la
+   13  cat id_ed25519.pub
+   14  clear
+   15  ssh ec2-user@linux.itcareerhub.de
+   16  ssh ec2-user@linux.itcareerhub.de
+   17  ph -ef
+   18  ph
+   19  exit
+   20  ssh ec2-user@linux.itcareerhub.de
+   21  ssh ec2-user@linux.itcareerhub.de
+   22  ssh ec2-user@linux.itcareerhub.de
+   23  cat .ssh/
+   24  $ cat .ssh/
+   25  cd
+   26  cd
+   27   cat .ssh/id_ed25519.pub 
+   28  cd
+   29  mkdir 0206
+   30  cd 0206
+   31  ls -l
+   32  echo "# 0206" >> README.md
+   33  git init
+   34  ls -la
+   35  git status
+   36  git add .
+   37  git s
+   38  git status
+   39  git commit -m "added new file README.md"
+   40   git config --global user.email "sumarokova75@internet.ru"
+   41   git config --global user.name "Your Name"
+   42   git config --global user.name "Sumarokova"
+   43  git branch -M main
+   44  git remote -v
+   45  git commit -m "added new file README.md"
+   46  git remote add origin git@github.com:Sumarokova/0206.git
+   47  git remote add origin git@github.com:Sumarokova/0206.git 
+   48  remote -v
+   49  git remote -v
+   50  git push -u origin main
+   51  git push -u origin main
+   52  git remote add origin git@github.com:Sumarokova/0206.git 
+   53  git remote -v
+   54  git push -u origin main
+   55  git remote -v
+   56  git push -u origin main
+   57  git remote add origin git@github.com:Sumarokova/0206.git 
+   58  git push -u origin main
+   59  ssh ec2-user@linux.itcareerhub.de
+   60  mkdir -p /tmp/raisa/test
+   61  #!/bin/bash
+   62  i
+   63  mkdir git_intro
+   64  cd git_intro
+   65  pwd
+   66  git_init
+   67  git init
+   68  git_intro 
+   69  git init https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8ijz_PeSCu_QE7vS9wWeiG18qtnktMxmky_b2yEC5cN6EABfV0bm7YSBpbXEoXoPwgT2k629Peg6XpSpMrM5PSjCYAjC2n5y6V5S_qlg9&usqp=CAc
+   70  git branch -M main
+   71  git remote add origin git@github.com:SumarokovaRaisa/git_into.git
+   72  git push -u origin main
+   73  git remote add origin git@github.com:SumarokovaRaisa/git_into.git
+   74  git branch -M main
+   75  git push -u origin main
+   76  ssh ec2-user@linux.itcareerhub.de
+   77  git status
+   78  git add .
+   79  git commit -m "first commit"
+   80  cd
+   81  mkdir 1006
+   82  cd 1006
+   83  echo "# 1006" >> README.md
+   84  git init
+   85  ls -la
+   86  git add README.mdgit add README.md
+   87  git status
+   88  git commit -m "first commit to file 1006"
+   89  git branch -M main
+   90  git remote -v
+   91  git remote add origin git@github.com:SumarokovaRaisa/1006.git
+   92  git push -u origin main
+   93  mkdir test
+   94  mkdir new
+   95  touch new/1.txt
+   96  ls -l
+   97  git add .
+   98  git status
+   99  git commit -m "added new folder new/ and added new file 1.txt "
+  100  git push
+  101  ls -la
+  102  nano README.md 
+  103  git status
+  104  git add README.md 
+  105  git status
+  106  git commit -m "change 1006"
+  107  git push
+  108  git log
+  109  rm README.md 
+  110  ls -la
+  111  git status
+  112  git add README.md 
+  113  git status
+  114  git commit -m "deleted README.md"
+  115  git push
+  116  cd 1006
+  117  1006 cd
+  118  git 
+  119  cd 1006
+  120  cd .git
+  121  cd 0506
+  122  git switch
+  123  ls -la
+  124  git checkout -b gitignore
+  125  ssh  ec2-user@linux.itcareerhub.de 
+  126  cd /opt/250425-ptm/raisa
+  127  ssh ec2-user@linux.itcareerhub.de
+  128  ssh ec2-user@linux.itcareerhub.de
+  129  ssh ec2-user@linux.itcareerhub.de
+  130  ssh ec2-user@linux.itcareerhub.de
+  131  cd
+  132  mkdir git_branch
+  133  cd git_branch
+  134  git init
+  135  git checkout -b gitignore
+  136  nano file1.txt
+  137  ls -la
+  138  git .add
+  139  git add .
+  140  git commit -m "Add file1.txt"
+  141  git push -u origin gitignore
+  142  git remote add origin https://github.com:SumarokovaRaisa/git_branch.git
+  143  git push -u origin gitignore
+  144  git remote add origin https://github.com/SumarokovaRaisa/git_branch.git
+  145  git remote remove origin
+  146  git remote add origin https://github.com/SumarokovaRaisa/git_branch.git
+  147  git push -u origin gitignore
+  148  git push -u origin gitignore
+  149  ls ~/.ssh
+  150  eval "$(ssh-agent -s)"
+  151  ssh-add~/.ssh/id_ed25519
+  152  ssh-add ~/.ssh/id_ed25519
+  153  cat ~/.ssh/id_ed25519.pub
+  154  ssh -T git@github.com
+  155  git remote -v
+  156  git remote set-url origin git@github.com:SumarokovaRaisa/git_branch.git
+  157  git push -u origin gitignore
+  158  git log
+  159  git status 
+  160  ssh ec2-user@linux.itcareerhub.de
+  161  mkdit test
+  162  mkdir test
+  163  cd
+  164  cd test
+  165  mkdir test
+  166  cd test
+  167  git init
+  168  branch -m main
+  169  git branch main
+  170  git branch -m main
+  171  touch file.txt
+  172  echo "nbbb" file2.txt 
+  173  echo "nbbb" >> file2.txt 
+  174  git status
+  175  git add .
+  176  git status
+  177  git rm --cashed file.tx
+  178  git rm --cached file.tx
+  179  git status
+  180  git commit -m "added 2 files"
+  181  git branch
+  182  git checkout -b bugfix
+  183  ls -la
+  184  touch README.md
+  185  git add .
+  186  git commit -m "added  file README.md"
+  187  nano .gitignore
+  188  git status
+  189  git add .
+  190  git commit -m "added  file .gitignore"
+  191  git status
+  192  git branch main 
+  193  git switch main 
+  194  git merge bugfix 
+  195  ls -la
+  196  git status
+  197  git log
+  198  git log --oneline
+  199  git log --oneline --graph
+  200  >> file.txt 
+  201  git commit -am "change file.txt"
+  202  git add .
+  203  git commit -m "change file.txt"
+  204  git status
+  205  rm file.txt 
+  206  git status
+  207  git add .
+  208  git commit -m "change file.txt"
+  209  git log --oneline --graph
+  210  git log --graph
+  211  cd ..
+  212  rm -r test
+  213  rm -rf test
+  214  mkdir testing && cd testing && git init
+  215  git branch -m main 
+  216  echo "hi" > text.txt
+  217  git add .
+  218  ls
+  219  git status
+  220  git commit -m "first commit in main"
+  221  git checkout -b feature
+  222  echo "Это новая строка из feature" >> text.txt
+  223  git add .
+  224  git switch main
+  225  echo “new line in main" >> text.txt
+  226  echo "new line in main" >> text.txt
+  227  echo “new line in main" >> text.txt
+  228  echo "new line in main" >> text.txt
+  229  echo "new line in main" >> text.txt
+  230  git add .
+  231  git commit -m "second commit in main"
+  232  git merge feature 
+  233  git status
+  234  nano text.txt
+  235  git status
+  236  git log --graph
+  237  q
+  238  св
+  239  cd
+  240  git clone https://github.com/Badabadabu/python.git
+  241  cd
+  242  mkdir merge_test
+  243  cd merge_test/
+  244  nano song.txt
+  245  ls -la
+  246  git init
+  247  git add .
+  248  git commit -m "initial commit"
+  249  git log
+  250  git checkout -b feature
+  251  ls -la
+  252  nano new song.txt
+  253  git log
+  254  git add .
+  255  git commit -m "new commit"
+  256  git status
+  257  ls -la
+  258  git log
+  259  git checkout -b master
+  260  cd master
+  261  git checkout master
+  262  nano song.txt
+  263  git commit -am "added new commit"
+  264  git merge feature
+  265  git log --online --decorate --graph
+  266  git log --oneline --decorate --graph
+  267  git status
+  268  nano song.txt
+  269  git commit -am "added second new commit"
+  270  echo "new file" >> File.txt
+  271  git status
+  272  git commit -am "added file.txt"
+  273  git status
+  274  git add .
+  275  git status
+  276  git commit -m "added file.txt"
+  277  git log --oneline 
+  278  git rebase master
+  279  git rebase feature
+  280  ls -la
+  281  git log --oneline 
+  282  git status
+  283  git log --oneline 
+  284  nano song.txt
+  285  git commit -ma "added    bhhh file.txt"
+  286  git status
+  287  git commit -amend -m "edit new file"
+  288  git commit --amend -m "edit new file"
+  289  git status
+  290  git add .
+  291  git status
+  292  git log --oneline 
+  293  git log --oneline 
+  294  echo "new line in main" >> text.txt
+  295  ss
+  296  ssh ec2-user@linux.itcareerhub.de
+  297  cd
+  298  git clone https://github.com/ваш_пользователь/имя_репозитория.git
+  299  cd my_homework_12
+  300  it clone https://github.com/ваш_пользователь/my_.git
+  301  git clone https://github.com/Sumarokova_Raisa/my_homework_12.git
+  302  cd my_homework_12
+  303  pwd
+  304  ls
+  305  git clone https://github.com/SumarokovaRaisa/my_homework_12.git
+  306  cd my_homework_12
+  307  git checkout -b feature
+  308  touch README.md
+  309  nano README.md 
+  310  ls -l
+  311  nano gitignore
+  312  git add README.md .gitignore 
+  313  git commit -m "Added new files README.md and .gitignore"
+  314  ls -l
+  315  git push origin feature
+  316  git commit --ammend -m "Changes Added to README.md and .gitignore"
+  317  git commit --amend -m "Changes Added to README.md and .gitignore"
+  318  git push origin feature --force
+  319  git checkout main
+  320  git merge feature
+  321  git push origin main
+  322  history > history.txt
